@@ -1,0 +1,151 @@
+Patient_ID,Name,Age,Gender,Contact_Number,Address,Medical_History,Allergies,Current_Medication,Insurance_Status,Registration_Date
+P001,Vihaan Sharma,53,F,+912117550026,"82 Ring Road, Jaipur, India",Hypertension,Seafood,Levothyroxine,Yes,2025-03-23
+P002,Anika Nair,42,F,+911930086875,"59 MG Road, Jaipur, India",Epilepsy,Seafood,Salbutamol,Yes,2025-02-05
+P003,Vivaan Gupta,56,F,+919883481367,"98 MG Road, Lucknow, India","Diabetes, Hypothyroid",Penicillin,Losartan,No,2025-05-19
+P004,Aarohi Gupta,72,F,+918720322983,"94 Station Road, Kolkata, India","COPD, Hypertension",Penicillin,Levothyroxine,No,2025-10-26
+P005,Aadhya Shah,40,M,+919147811653,"87 Station Road, Jaipur, India",Anemia,Dust,None,Yes,2025-10-02
+P006,Ishaan Nair,40,M,+912107797516,"92 Church Street, Lucknow, India",Diabetes,Dust,Atorvastatin,Yes,2025-06-15
+P007,Kiara Sharma,73,M,+919883089040,"79 Ring Road, Bengaluru, India","CAD, COPD",Sulfa,Insulin,Yes,2025-10-04
+P008,Ayaan Mukherjee,58,F,+919645123522,"20 MG Road, Hyderabad, India",Anemia,Dust,Salbutamol,Yes,2025-09-21
+P009,Krishna Mehta,36,F,+912195478104,"65 Station Road, Pune, India",CKD,Latex,Metformin,Yes,2025-07-26
+P010,Ananya Patel,54,M,+911511480880,"94 Church Street, Mumbai, India",Anemia,Dust,Amlodipine,Yes,2025-07-28
+P011,Kiara Ghosh,36,M,+918910397267,"82 Station Road, Bengaluru, India",Hypertension,None,None,No,2025-01-30
+P012,Vivaan Kulkarni,36,F,+915819015621,"83 Ring Road, Lucknow, India",None,Latex,Salbutamol,No,2025-04-15
+P013,Ananya Gupta,49,F,+913623704990,"38 Church Street, Ahmedabad, India",Anemia,None,Amlodipine,No,2025-05-26
+P014,Sai Bose,10,F,+916960826911,"24 Church Street, Bengaluru, India",Hypertension,Penicillin,Salbutamol,Yes,2025-05-16
+P015,Saanvi Ghosh,13,F,+919804207627,"81 Station Road, Jaipur, India",Diabetes,Latex,Atorvastatin,Yes,2025-07-09
+P016,Ira Chowdhury,34,M,+914039903663,"82 Station Road, Lucknow, India","Anemia, Diabetes",Dust,Atorvastatin,Yes,2025-07-31
+P017,Aarav Menon,26,F,+917467217304,"36 Station Road, Chennai, India",Epilepsy,Dust,Amlodipine,Yes,2025-01-13
+P018,Ayaan Khan,50,F,+912073568308,"44 Ring Road, Lucknow, India",None,Seafood,Insulin,No,2025-06-10
+P019,Anika Bansal,28,M,+913527095776,"57 Station Road, Delhi, India","Anemia, CKD",Latex,Metformin,No,2025-09-17
+P020,Ritik Singh,19,F,+914214969635,"11 Main Street, Ahmedabad, India",COPD,Seafood,Salbutamol,No,2025-08-15
+P021,Navya Das,71,F,+917976266092,"50 Ring Road, Hyderabad, India",None,Penicillin,Losartan,Yes,2025-08-22
+P022,Anika Kulkarni,40,M,+917331688872,"77 Station Road, Mumbai, India","Epilepsy, Hypertension",Peanuts,Atorvastatin,No,2025-09-29
+P023,Aarohi Bansal,46,F,+919867585874,"44 Ring Road, Ahmedabad, India","COPD, Hypertension",Peanuts,Metformin,No,2025-05-01
+P024,Ishaan Nair,19,F,+918013124340,"64 Station Road, Lucknow, India",Epilepsy,Seafood,Insulin,No,2025-01-04
+P025,Diya Mukherjee,35,F,+918947562240,"54 Station Road, Bengaluru, India",Anemia,Seafood,None,No,2025-10-16
+P026,Aarav Iyer,46,F,+911403237378,"43 MG Road, Pune, India",Hypothyroid,None,Salbutamol,Yes,2025-02-05
+P027,Vivaan Sharma,24,M,+911011652671,"88 MG Road, Bengaluru, India",Diabetes,None,Levothyroxine,No,2025-07-23
+P028,Ayaan Iyer,51,M,+911786197343,"75 Main Street, Mumbai, India",Epilepsy,None,Insulin,No,2025-08-24
+P029,Arjun Singh,34,M,+917928544728,"22 Main Street, Pune, India",Hypothyroid,Seafood,Insulin,No,2025-01-15
+P030,Kiara Nair,39,M,+914322585512,"63 Station Road, Jaipur, India",CKD,Latex,Losartan,No,2025-01-09
+P031,Aditya Mukherjee,34,M,+914263539534,"50 Main Street, Hyderabad, India",Hypothyroid,Sulfa,Metformin,Yes,2025-04-09
+P032,Ayaan Ghosh,78,F,+917952112105,"46 MG Road, Mumbai, India","Anemia, Hypertension",Latex,Losartan,Yes,2025-01-07
+P033,Ira Mukherjee,44,F,+914392810456,"30 Ring Road, Lucknow, India",None,Penicillin,Metformin,No,2025-04-26
+P034,Saanvi Khan,25,F,+919254509076,"44 MG Road, Bengaluru, India",Diabetes,None,Atorvastatin,Yes,2025-07-29
+P035,Navya Bansal,59,F,+912277469766,"36 Station Road, Delhi, India","Diabetes, Hypertension",Sulfa,Atorvastatin,Yes,2025-01-31
+P036,Sai Mukherjee,23,F,+914434254587,"88 Main Street, Mumbai, India",Hypertension,Latex,None,No,2025-10-23
+P037,Vivaan Menon,48,F,+915429489443,"24 Ring Road, Chennai, India",CKD,Sulfa,Insulin,Yes,2025-08-21
+P038,Aditya Nair,9,F,+913945965413,"74 Station Road, Mumbai, India",Hypertension,Penicillin,Levothyroxine,No,2025-09-06
+P039,Vihaan Sharma,21,M,+917304281961,"48 Church Street, Ahmedabad, India",Epilepsy,Peanuts,Amlodipine,No,2025-10-10
+P040,Arjun Khan,48,M,+919588274958,"47 Main Street, Lucknow, India","Anemia, COPD",Penicillin,Losartan,No,2025-06-26
+P041,Ananya Chowdhury,58,F,+914316527077,"59 Station Road, Bengaluru, India",Anemia,Penicillin,Salbutamol,Yes,2025-08-14
+P042,Vihaan Yadav,48,F,+910189072630,"53 Church Street, Kolkata, India",CKD,Dust,Losartan,Yes,2025-02-05
+P043,Krishna Mukherjee,42,M,+917406846907,"48 Main Street, Chennai, India",Diabetes,Seafood,Insulin,Yes,2025-03-29
+P044,Sai Iyer,39,F,+916291422089,"97 Church Street, Bengaluru, India",COPD,Sulfa,Levothyroxine,No,2025-05-09
+P045,Navya Mukherjee,18,M,+919813326083,"12 Church Street, Mumbai, India","Epilepsy, Hypothyroid",Sulfa,Amlodipine,No,2025-04-23
+P046,Ayaan Bansal,32,F,+916768696345,"27 MG Road, Ahmedabad, India",Hypothyroid,Penicillin,Amlodipine,Yes,2025-10-04
+P047,Diya Yadav,36,F,+918284873191,"39 Station Road, Jaipur, India",None,Peanuts,None,No,2025-10-02
+P048,Vihaan Bose,64,F,+916658912085,"89 Ring Road, Delhi, India","Anemia, Epilepsy",Sulfa,Insulin,Yes,2025-03-13
+P049,Vivaan Verma,51,F,+919125339655,"30 Station Road, Delhi, India",CKD,Sulfa,None,No,2025-04-22
+P050,Navya Bose,13,M,+918065933118,"69 MG Road, Hyderabad, India","Anemia, CKD",None,Salbutamol,Yes,2025-03-06
+P051,Ira Das,50,M,+918558277529,"27 Church Street, Ahmedabad, India",Diabetes,Dust,None,Yes,2025-01-08
+P052,Diya Gupta,38,F,+910214104354,"39 Church Street, Mumbai, India","Epilepsy, Hypothyroid",Seafood,Levothyroxine,No,2025-01-16
+P053,Vivaan Ghosh,32,F,+914174831165,"52 Station Road, Lucknow, India","CAD, Hypertension",Peanuts,Metformin,Yes,2025-10-10
+P054,Ayaan Singh,56,F,+918483733296,"71 MG Road, Delhi, India",None,None,Salbutamol,Yes,2025-10-12
+P055,Vivaan Kulkarni,63,F,+916489490231,"75 Ring Road, Bengaluru, India","COPD, Epilepsy",Sulfa,Salbutamol,Yes,2025-05-23
+P056,Ira Gupta,61,F,+918986609821,"50 Main Street, Chennai, India",Diabetes,Penicillin,Insulin,Yes,2025-03-14
+P057,Aarav Iyer,29,M,+913413395817,"17 MG Road, Ahmedabad, India",CKD,Peanuts,Losartan,No,2025-05-20
+P058,Ayaan Yadav,39,M,+913165532902,"38 Ring Road, Ahmedabad, India",Asthma,None,Losartan,No,2025-03-31
+P059,Arjun Khan,50,M,+915880800985,"84 Station Road, Kolkata, India",Diabetes,None,Salbutamol,Yes,2025-08-24
+P060,Diya Iyer,62,F,+918255333315,"25 Church Street, Jaipur, India",Anemia,Sulfa,Salbutamol,Yes,2025-05-01
+P061,Vihaan Reddy,36,F,+911676174774,"83 Church Street, Chennai, India","Asthma, COPD",Peanuts,Losartan,No,2025-05-21
+P062,Ira Verma,41,F,+915340808865,"70 Church Street, Jaipur, India","COPD, Epilepsy",Dust,Amlodipine,No,2025-09-01
+P063,Saanvi Reddy,25,M,+914889060795,"89 Ring Road, Chennai, India",Anemia,Peanuts,Insulin,No,2025-01-27
+P064,Ananya Iyer,23,F,+910627698351,"55 Main Street, Kolkata, India",CAD,None,Levothyroxine,No,2025-06-18
+P065,Arjun Yadav,59,M,+916433129421,"20 Main Street, Delhi, India","Epilepsy, Hypothyroid",Seafood,None,No,2025-03-09
+P066,Myra Khan,69,M,+911878144624,"47 Station Road, Hyderabad, India","Anemia, Hypertension",Dust,Losartan,Yes,2025-07-08
+P067,Ira Bose,43,F,+917754116804,"58 Church Street, Delhi, India",Epilepsy,Sulfa,Metformin,Yes,2025-05-20
+P068,Navya Yadav,63,M,+918098894333,"21 Main Street, Hyderabad, India",Asthma,None,Salbutamol,Yes,2025-03-12
+P069,Vivaan Mukherjee,51,F,+916174002857,"78 Station Road, Delhi, India",Hypertension,None,None,Yes,2025-08-03
+P070,Myra Bose,33,M,+911950521462,"64 Ring Road, Delhi, India",Anemia,Seafood,None,No,2025-08-29
+P071,Vivaan Khan,51,F,+912073767730,"80 Main Street, Bengaluru, India","CKD, COPD",Latex,Atorvastatin,Yes,2025-02-02
+P072,Navya Verma,72,F,+912783338406,"47 Main Street, Mumbai, India","Asthma, Diabetes",Sulfa,Insulin,No,2025-08-14
+P073,Aadhya Nair,44,M,+914495870685,"52 MG Road, Delhi, India",CKD,Sulfa,Losartan,No,2025-03-27
+P074,Navya Shah,73,F,+910839299063,"97 Ring Road, Mumbai, India",Epilepsy,Latex,Losartan,Yes,2025-03-06
+P075,Aditya Gupta,1,F,+913901434013,"51 Main Street, Hyderabad, India",None,Penicillin,Losartan,No,2025-10-15
+P076,Vihaan Mehta,59,F,+917266921017,"22 Main Street, Chennai, India",CAD,Sulfa,Atorvastatin,Yes,2025-07-05
+P077,Saanvi Gupta,46,M,+919724354918,"19 Main Street, Kolkata, India","CAD, Hypothyroid",Dust,Insulin,Yes,2025-03-06
+P078,Ananya Iyer,39,F,+914518557158,"26 Church Street, Bengaluru, India",Diabetes,Sulfa,Amlodipine,No,2025-09-23
+P079,Ritik Iyer,46,F,+911926606551,"90 Church Street, Chennai, India",Epilepsy,None,None,No,2025-04-18
+P080,Ira Singh,9,M,+914629486200,"67 Station Road, Pune, India",Hypertension,Seafood,Atorvastatin,No,2025-06-13
+P081,Diya Khan,41,M,+917512141098,"64 Ring Road, Bengaluru, India",Anemia,Latex,Salbutamol,Yes,2025-03-23
+P082,Kiara Yadav,51,F,+914309592304,"94 Station Road, Ahmedabad, India",Diabetes,Penicillin,Levothyroxine,No,2025-07-26
+P083,Diya Verma,71,F,+910532345866,"27 MG Road, Kolkata, India",Hypothyroid,Sulfa,Salbutamol,Yes,2025-04-12
+P084,Myra Yadav,35,F,+915013446536,"31 Station Road, Lucknow, India","CAD, Epilepsy",Seafood,Losartan,No,2025-09-01
+P085,Aarav Shah,30,F,+916957760497,"85 Church Street, Hyderabad, India",COPD,Seafood,Insulin,Yes,2025-05-05
+P086,Vivaan Kulkarni,35,M,+911444256487,"28 Church Street, Hyderabad, India","Asthma, CKD",Seafood,Insulin,No,2025-03-30
+P087,Navya Chowdhury,61,F,+915686824922,"49 Main Street, Hyderabad, India","Asthma, Hypothyroid",Sulfa,Levothyroxine,No,2025-03-04
+P088,Ira Chowdhury,50,F,+918337109096,"72 Ring Road, Hyderabad, India","CAD, Hypertension",Sulfa,Atorvastatin,Yes,2025-10-28
+P089,Krishna Gupta,35,M,+916560471705,"31 Station Road, Pune, India",CKD,Dust,Levothyroxine,No,2025-05-27
+P090,Vivaan Iyer,54,M,+915799181993,"74 Ring Road, Ahmedabad, India",None,Seafood,Metformin,No,2025-05-26
+P091,Navya Chowdhury,46,F,+918152837670,"54 Main Street, Lucknow, India","Diabetes, Hypothyroid",Dust,Insulin,No,2025-09-21
+P092,Ananya Iyer,62,F,+916113222793,"84 MG Road, Ahmedabad, India","Asthma, Hypertension",Latex,Metformin,No,2025-06-07
+P093,Sai Khan,32,F,+916693294493,"81 Station Road, Jaipur, India","Epilepsy, Hypothyroid",Latex,Metformin,No,2025-09-28
+P094,Diya Iyer,39,M,+910555135125,"22 Church Street, Pune, India",COPD,Seafood,Insulin,No,2025-10-16
+P095,Vivaan Chowdhury,37,F,+916302020475,"18 MG Road, Pune, India",Hypertension,Penicillin,Atorvastatin,No,2025-07-11
+P096,Aadhya Bose,18,F,+913665631557,"39 MG Road, Mumbai, India",COPD,Latex,Insulin,No,2025-04-28
+P097,Krishna Bose,50,F,+911187066982,"19 MG Road, Lucknow, India",COPD,Latex,None,Yes,2025-01-23
+P098,Aadhya Bose,49,M,+915771929557,"52 Ring Road, Ahmedabad, India",Anemia,Seafood,Amlodipine,No,2025-06-03
+P099,Ishaan Verma,45,M,+916449967341,"59 Ring Road, Jaipur, India",Hypertension,Penicillin,Levothyroxine,Yes,2025-08-26
+P100,Vivaan Chowdhury,40,F,+919512269807,"35 MG Road, Ahmedabad, India",CKD,Seafood,None,Yes,2025-04-07
+P101,Ira Chowdhury,19,M,+914839099194,"42 Church Street, Hyderabad, India",Anemia,Seafood,Salbutamol,No,2025-07-14
+P102,Navya Chowdhury,37,F,+913384877323,"16 Church Street, Hyderabad, India","Diabetes, Hypertension",Seafood,Insulin,No,2025-03-20
+P103,Ayaan Nair,38,M,+913846628964,"32 Main Street, Bengaluru, India",Hypothyroid,Peanuts,Atorvastatin,Yes,2025-09-26
+P104,Vivaan Iyer,30,M,+917482705366,"89 Station Road, Pune, India",None,Seafood,Insulin,Yes,2025-01-09
+P105,Saanvi Mehta,42,F,+910868910115,"56 Main Street, Kolkata, India",Asthma,Peanuts,Losartan,Yes,2025-04-26
+P106,Ritik Iyer,52,M,+910350014475,"23 Church Street, Mumbai, India",Hypertension,Dust,Losartan,No,2025-01-24
+P107,Aditya Mehta,78,M,+911802188925,"83 Station Road, Jaipur, India",Asthma,Latex,Atorvastatin,Yes,2025-09-14
+P108,Diya Verma,48,M,+914837937029,"73 Ring Road, Chennai, India","Anemia, COPD",Latex,Insulin,Yes,2025-06-01
+P109,Krishna Iyer,49,M,+912371330947,"24 Ring Road, Delhi, India",COPD,Seafood,Insulin,Yes,2025-01-14
+P110,Aditya Shah,43,M,+915780477592,"77 Ring Road, Kolkata, India",Diabetes,Sulfa,Levothyroxine,No,2025-03-16
+P111,Aditya Menon,10,F,+912273974641,"11 Station Road, Chennai, India","Asthma, Epilepsy",Peanuts,Salbutamol,No,2025-03-11
+P112,Ritik Nair,44,M,+914133769732,"61 Main Street, Delhi, India","Anemia, Diabetes",Penicillin,None,No,2025-04-18
+P113,Navya Mukherjee,46,M,+918744626770,"87 Station Road, Lucknow, India",CAD,Dust,Insulin,Yes,2025-07-04
+P114,Aarohi Bansal,89,M,+911261656693,"66 MG Road, Mumbai, India",Hypertension,Seafood,Amlodipine,No,2025-07-11
+P115,Aadhya Bose,41,M,+913014919134,"37 Church Street, Pune, India",COPD,Peanuts,Losartan,No,2025-02-04
+P116,Ritik Verma,50,M,+910318975534,"70 Ring Road, Kolkata, India","CKD, Diabetes",Peanuts,Insulin,Yes,2025-04-12
+P117,Navya Kulkarni,44,F,+913727801813,"69 MG Road, Ahmedabad, India","CAD, Epilepsy",Latex,Salbutamol,No,2025-07-20
+P118,Ira Patel,23,F,+913416895632,"25 Ring Road, Chennai, India","Asthma, Diabetes",Seafood,Atorvastatin,No,2025-08-05
+P119,Sai Ghosh,65,M,+915413403018,"82 Church Street, Pune, India",CKD,Peanuts,Losartan,No,2025-03-27
+P120,Aditya Kulkarni,58,M,+917202275745,"84 MG Road, Ahmedabad, India","Asthma, Epilepsy",Dust,None,No,2025-10-07
+P121,Ayaan Singh,59,M,+917628028081,"41 Ring Road, Lucknow, India","Asthma, Hypothyroid",Latex,Insulin,Yes,2025-03-13
+P122,Ayaan Das,28,M,+915551925959,"23 Ring Road, Kolkata, India",Anemia,Dust,Atorvastatin,Yes,2025-05-08
+P123,Arjun Nair,70,M,+917645244680,"76 Main Street, Chennai, India",Anemia,Sulfa,None,Yes,2025-08-23
+P124,Diya Iyer,19,F,+912422835543,"98 MG Road, Mumbai, India",CKD,Dust,Losartan,Yes,2025-03-05
+P125,Sai Bose,55,F,+910926161926,"43 MG Road, Chennai, India","Anemia, Diabetes",Peanuts,Levothyroxine,Yes,2025-08-08
+P126,Aditya Patel,84,M,+912055403186,"72 MG Road, Hyderabad, India",None,Dust,Metformin,Yes,2025-06-10
+P127,Diya Mukherjee,27,M,+913886605613,"38 Ring Road, Kolkata, India","CKD, Epilepsy",None,Metformin,Yes,2025-03-05
+P128,Ira Khan,34,F,+919312056676,"95 Main Street, Hyderabad, India","CKD, Diabetes",Peanuts,Levothyroxine,Yes,2025-05-03
+P129,Kiara Khan,46,M,+912608033384,"80 Ring Road, Pune, India",None,None,None,No,2025-04-21
+P130,Vivaan Verma,35,F,+915654705623,"76 Ring Road, Bengaluru, India","Asthma, CAD",Dust,Metformin,No,2025-08-12
+P131,Krishna Verma,17,M,+910446377177,"31 Station Road, Chennai, India","CAD, Epilepsy",Sulfa,Atorvastatin,No,2025-03-06
+P132,Ishaan Patel,46,M,+913452964508,"32 Main Street, Bengaluru, India",Hypothyroid,Seafood,Metformin,Yes,2025-09-18
+P133,Aarav Verma,25,M,+912431985974,"52 Ring Road, Kolkata, India","Asthma, Epilepsy",Seafood,Salbutamol,Yes,2025-09-15
+P134,Vivaan Menon,53,M,+918990428350,"36 Main Street, Lucknow, India",Hypothyroid,Penicillin,Losartan,No,2025-09-10
+P135,Ayaan Chowdhury,28,M,+911905660373,"50 MG Road, Hyderabad, India","Anemia, COPD",None,Atorvastatin,No,2025-02-17
+P136,Vivaan Gupta,72,F,+917390018054,"27 Ring Road, Ahmedabad, India",Epilepsy,Dust,Insulin,No,2025-06-12
+P137,Navya Mehta,30,M,+910275114459,"37 Station Road, Ahmedabad, India",Hypertension,None,Metformin,Yes,2025-06-05
+P138,Myra Verma,39,M,+918302356290,"62 Station Road, Jaipur, India",CAD,None,Atorvastatin,Yes,2025-01-07
+P139,Vivaan Gupta,59,M,+911469059091,"93 Station Road, Bengaluru, India",Anemia,Dust,Salbutamol,Yes,2025-01-22
+P140,Navya Verma,22,M,+919474343924,"30 MG Road, Lucknow, India",CKD,Peanuts,Insulin,No,2025-02-01
+P141,Aditya Mehta,49,F,+911185687973,"80 Station Road, Chennai, India","Asthma, CAD",Penicillin,None,No,2025-04-23
+P142,Aarav Mehta,68,M,+918435212257,"18 Ring Road, Lucknow, India",Asthma,Dust,Atorvastatin,Yes,2025-05-02
+P143,Ira Nair,16,F,+919079551984,"50 Ring Road, Pune, India",None,Penicillin,Amlodipine,Yes,2025-09-27
+P144,Kiara Sharma,48,F,+919217983059,"25 Church Street, Chennai, India",Asthma,Latex,Insulin,Yes,2025-06-22
+P145,Ritik Nair,49,M,+919746437586,"56 Ring Road, Lucknow, India",Asthma,Latex,Levothyroxine,Yes,2025-04-01
+P146,Aarav Kulkarni,59,F,+918751386614,"53 MG Road, Hyderabad, India",Anemia,Penicillin,Metformin,No,2025-08-17
+P147,Aarav Mehta,22,M,+912021037984,"59 Main Street, Jaipur, India",Diabetes,Peanuts,Amlodipine,Yes,2025-08-20
+P148,Aditya Verma,21,F,+910213810993,"89 Station Road, Mumbai, India",Anemia,Penicillin,Insulin,Yes,2025-01-28
+P149,Vihaan Nair,54,M,+919459562035,"73 Ring Road, Mumbai, India",None,None,Levothyroxine,No,2025-04-13
+P150,Vihaan Sharma,50,M,+911208334605,"34 Main Street, Kolkata, India",Diabetes,None,Levothyroxine,No,2025-08-27

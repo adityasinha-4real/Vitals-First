@@ -1,0 +1,131 @@
+Staff_ID,Staff_Name,Role,Department,Shift_Timing,Current_Status,Assigned_Patient,Allocation_Timestamp
+D001,Ishaan Gupta,Doctor,Pulmonology,16:00-00:00,On-call,P016,2025-10-04 10:32:00
+D002,Vihaan Iyer,Doctor,ICU,16:00-00:00,On-call,P106,2025-10-18 05:07:00
+D003,Ira Gupta,Doctor,Pediatrics,08:00-16:00,Off-duty,P134,2025-10-10 12:37:00
+D004,Aarohi Ghosh,Doctor,Pediatrics,08:00-16:00,Off-duty,P077,2025-10-02 19:07:00
+D005,Aadhya Verma,Doctor,Pediatrics,00:00-08:00,On-call,P147,2025-10-16 10:01:00
+D006,Myra Reddy,Doctor,Emergency,16:00-00:00,On-duty,P043,2025-10-05 19:43:00
+D007,Ayaan Reddy,Doctor,Emergency,16:00-00:00,On-duty,P112,2025-10-05 14:16:00
+D008,Arjun Bansal,Doctor,General Medicine,16:00-00:00,On-call,P018,2025-10-02 23:31:00
+D009,Aadhya Chowdhury,Doctor,Orthopedics,00:00-08:00,Off-duty,P071,2025-10-12 19:49:00
+D010,Navya Sharma,Doctor,Pulmonology,00:00-08:00,On-call,P134,2025-10-18 18:54:00
+D011,Anika Patel,Doctor,Orthopedics,08:00-16:00,On-duty,P146,2025-10-14 09:05:00
+D012,Ira Patel,Doctor,Emergency,00:00-08:00,On-duty,P074,2025-10-20 17:45:00
+D013,Aarohi Shah,Doctor,Orthopedics,16:00-00:00,Off-duty,P125,2025-10-14 00:24:00
+D014,Myra Ghosh,Doctor,Emergency,08:00-16:00,Off-duty,P104,2025-10-04 06:33:00
+D015,Myra Bansal,Doctor,ICU,00:00-08:00,Off-duty,P010,2025-10-10 00:09:00
+D016,Ananya Gupta,Doctor,Emergency,00:00-08:00,Off-duty,P069,2025-10-09 11:24:00
+D017,Aarav Nair,Doctor,Pulmonology,16:00-00:00,Off-duty,P072,2025-10-20 04:18:00
+D018,Kiara Patel,Doctor,Pulmonology,08:00-16:00,On-duty,P077,2025-10-17 22:10:00
+D019,Navya Nair,Doctor,General Medicine,00:00-08:00,Off-duty,P023,2025-10-05 06:38:00
+D020,Navya Das,Doctor,Pulmonology,16:00-00:00,On-call,P125,2025-10-18 06:47:00
+D021,Saanvi Shah,Doctor,Pulmonology,08:00-16:00,On-call,P041,2025-10-02 11:50:00
+D022,Ritik Yadav,Doctor,Orthopedics,08:00-16:00,On-call,P146,2025-10-01 15:48:00
+D023,Sai Das,Doctor,Pulmonology,08:00-16:00,On-duty,P064,2025-10-01 18:03:00
+D024,Navya Verma,Doctor,General Medicine,00:00-08:00,On-duty,P071,2025-10-09 09:10:00
+D025,Navya Yadav,Doctor,Orthopedics,00:00-08:00,On-duty,P008,2025-10-06 12:07:00
+D026,Diya Ghosh,Doctor,Pediatrics,16:00-00:00,On-duty,P122,2025-10-14 08:30:00
+D027,Aarohi Shah,Doctor,General Medicine,08:00-16:00,Off-duty,P024,2025-10-07 11:41:00
+D028,Aarav Khan,Doctor,Emergency,08:00-16:00,On-call,P055,2025-10-20 12:05:00
+D029,Krishna Gupta,Doctor,ICU,08:00-16:00,Off-duty,P105,2025-10-12 16:19:00
+D030,Aarav Sharma,Doctor,Orthopedics,08:00-16:00,On-call,P045,2025-10-14 16:18:00
+D031,Aarav Gupta,Doctor,General Medicine,00:00-08:00,Off-duty,P071,2025-10-10 15:27:00
+D032,Aadhya Shah,Doctor,Orthopedics,16:00-00:00,On-duty,P120,2025-10-07 21:00:00
+D033,Saanvi Bansal,Doctor,Orthopedics,00:00-08:00,On-duty,P002,2025-10-12 15:21:00
+D034,Diya Chowdhury,Doctor,ICU,00:00-08:00,On-call,P073,2025-10-07 19:00:00
+D035,Vihaan Ghosh,Doctor,Emergency,16:00-00:00,Off-duty,P084,2025-10-20 14:29:00
+D036,Ishaan Mehta,Doctor,ICU,00:00-08:00,On-call,P077,2025-10-05 06:52:00
+D037,Arjun Yadav,Doctor,Pulmonology,08:00-16:00,On-duty,P104,2025-10-16 00:44:00
+D038,Ananya Reddy,Doctor,ICU,08:00-16:00,On-call,P128,2025-10-07 17:26:00
+D039,Ishaan Singh,Doctor,Orthopedics,16:00-00:00,On-call,P010,2025-10-14 06:24:00
+D040,Ira Das,Doctor,General Medicine,00:00-08:00,On-call,P057,2025-10-16 14:49:00
+D041,Aarohi Ghosh,Doctor,ICU,16:00-00:00,On-call,P077,2025-10-20 05:42:00
+D042,Sai Chowdhury,Doctor,Cardiology,16:00-00:00,On-duty,P121,2025-10-03 21:52:00
+D043,Ishaan Chowdhury,Doctor,Pulmonology,08:00-16:00,On-call,P086,2025-10-15 21:24:00
+D044,Aditya Gupta,Doctor,General Medicine,08:00-16:00,On-call,P079,2025-10-10 13:38:00
+D045,Ananya Shah,Doctor,General Medicine,00:00-08:00,Off-duty,P119,2025-10-20 08:52:00
+D046,Vihaan Ghosh,Doctor,Emergency,00:00-08:00,On-call,P149,2025-10-15 02:57:00
+D047,Aditya Ghosh,Doctor,Cardiology,00:00-08:00,On-duty,P098,2025-10-13 01:21:00
+D048,Ritik Singh,Doctor,Emergency,08:00-16:00,On-duty,P052,2025-10-08 19:08:00
+D049,Anika Kulkarni,Doctor,Orthopedics,08:00-16:00,Off-duty,P047,2025-10-18 17:24:00
+D050,Aditya Ghosh,Doctor,General Medicine,00:00-08:00,On-duty,P081,2025-10-15 10:31:00
+N001,Vivaan Sharma,Nurse,Orthopedics,16:00-00:00,On-duty,P044,2025-10-14 02:43:00
+N002,Sai Ghosh,Nurse,Pulmonology,08:00-16:00,On-duty,P112,2025-10-15 09:58:00
+N003,Anika Khan,Nurse,Orthopedics,16:00-00:00,Off-duty,P002,2025-10-01 20:36:00
+N004,Aarohi Das,Nurse,ICU,16:00-00:00,On-duty,P083,2025-10-18 05:20:00
+N005,Saanvi Das,Nurse,Emergency,00:00-08:00,On-duty,P064,2025-10-06 03:34:00
+N006,Diya Mukherjee,Nurse,Cardiology,08:00-16:00,Off-duty,P129,2025-10-14 09:29:00
+N007,Ritik Menon,Nurse,Emergency,08:00-16:00,Off-duty,P075,2025-10-11 08:59:00
+N008,Saanvi Bansal,Nurse,Pediatrics,16:00-00:00,Off-duty,P035,2025-10-08 19:10:00
+N009,Kiara Shah,Nurse,Pulmonology,08:00-16:00,On-duty,P104,2025-10-01 10:26:00
+N010,Krishna Gupta,Nurse,ICU,08:00-16:00,On-duty,P006,2025-10-14 10:03:00
+N011,Saanvi Menon,Nurse,Emergency,16:00-00:00,On-call,P010,2025-10-09 12:54:00
+N012,Ishaan Chowdhury,Nurse,Pediatrics,08:00-16:00,On-call,P013,2025-10-16 01:31:00
+N013,Vihaan Sharma,Nurse,Emergency,00:00-08:00,On-duty,P107,2025-10-11 02:39:00
+N014,Aadhya Patel,Nurse,Pediatrics,16:00-00:00,Off-duty,P040,2025-10-05 16:13:00
+N015,Aarav Mukherjee,Nurse,Orthopedics,00:00-08:00,On-duty,P134,2025-10-07 03:26:00
+N016,Myra Bansal,Nurse,ICU,08:00-16:00,Off-duty,P027,2025-10-12 15:23:00
+N017,Myra Patel,Nurse,General Medicine,08:00-16:00,On-duty,P128,2025-10-05 12:29:00
+N018,Myra Das,Nurse,Pulmonology,16:00-00:00,On-call,P052,2025-10-09 03:28:00
+N019,Anika Mukherjee,Nurse,Cardiology,08:00-16:00,On-call,P128,2025-10-05 17:25:00
+N020,Kiara Nair,Nurse,Cardiology,08:00-16:00,On-duty,P023,2025-10-03 12:18:00
+N021,Ira Ghosh,Nurse,Cardiology,08:00-16:00,On-call,P020,2025-10-17 11:09:00
+N022,Vihaan Mehta,Nurse,ICU,08:00-16:00,Off-duty,P076,2025-10-07 00:14:00
+N023,Navya Verma,Nurse,Emergency,08:00-16:00,On-duty,P075,2025-10-09 04:43:00
+N024,Ananya Singh,Nurse,ICU,08:00-16:00,On-duty,P012,2025-10-01 05:16:00
+N025,Arjun Menon,Nurse,General Medicine,16:00-00:00,Off-duty,P069,2025-10-20 23:45:00
+N026,Aditya Shah,Nurse,Pulmonology,16:00-00:00,On-duty,P030,2025-10-10 02:52:00
+N027,Aadhya Bose,Nurse,General Medicine,16:00-00:00,On-call,P123,2025-10-19 04:51:00
+N028,Anika Menon,Nurse,Emergency,08:00-16:00,On-call,P016,2025-10-20 05:07:00
+N029,Sai Patel,Nurse,Orthopedics,00:00-08:00,Off-duty,P146,2025-10-16 10:29:00
+N030,Navya Menon,Nurse,Pediatrics,16:00-00:00,Off-duty,P008,2025-10-20 15:04:00
+N031,Arjun Ghosh,Nurse,Orthopedics,08:00-16:00,Off-duty,P113,2025-10-02 01:06:00
+N032,Aditya Mehta,Nurse,ICU,16:00-00:00,On-duty,P135,2025-10-18 11:10:00
+N033,Ira Kulkarni,Nurse,Cardiology,00:00-08:00,Off-duty,P133,2025-10-12 21:41:00
+N034,Myra Patel,Nurse,Orthopedics,00:00-08:00,On-call,P064,2025-10-11 23:11:00
+N035,Diya Khan,Nurse,Cardiology,00:00-08:00,On-call,P014,2025-10-01 06:21:00
+N036,Sai Yadav,Nurse,Pulmonology,16:00-00:00,Off-duty,P043,2025-10-02 16:53:00
+N037,Kiara Nair,Nurse,Cardiology,16:00-00:00,Off-duty,P013,2025-10-12 12:51:00
+N038,Krishna Chowdhury,Nurse,ICU,16:00-00:00,Off-duty,P061,2025-10-02 19:03:00
+N039,Navya Bose,Nurse,Pulmonology,00:00-08:00,Off-duty,P023,2025-10-20 11:48:00
+N040,Kiara Bose,Nurse,General Medicine,08:00-16:00,Off-duty,P005,2025-10-03 08:03:00
+N041,Aadhya Singh,Nurse,Emergency,00:00-08:00,On-call,P001,2025-10-19 19:03:00
+N042,Aditya Bansal,Nurse,Pediatrics,00:00-08:00,Off-duty,P131,2025-10-13 19:06:00
+N043,Ayaan Bose,Nurse,General Medicine,16:00-00:00,On-duty,P058,2025-10-20 05:06:00
+N044,Navya Nair,Nurse,Pediatrics,00:00-08:00,On-call,P122,2025-10-17 07:23:00
+N045,Diya Bose,Nurse,Emergency,08:00-16:00,On-call,P057,2025-10-01 01:11:00
+N046,Ananya Shah,Nurse,Pulmonology,00:00-08:00,Off-duty,P141,2025-10-12 21:04:00
+N047,Diya Patel,Nurse,Emergency,08:00-16:00,Off-duty,P036,2025-10-19 16:50:00
+N048,Anika Patel,Nurse,General Medicine,00:00-08:00,On-duty,P049,2025-10-03 17:56:00
+N049,Aadhya Das,Nurse,Orthopedics,08:00-16:00,On-call,P087,2025-10-03 10:51:00
+N050,Anika Verma,Nurse,ICU,00:00-08:00,On-call,P032,2025-10-18 13:41:00
+N051,Navya Bose,Nurse,ICU,00:00-08:00,On-call,P035,2025-10-12 08:25:00
+N052,Aarav Yadav,Nurse,ICU,08:00-16:00,On-call,P111,2025-10-20 02:06:00
+N053,Ira Ghosh,Nurse,Pediatrics,08:00-16:00,On-call,P149,2025-10-04 22:50:00
+N054,Arjun Patel,Nurse,Orthopedics,00:00-08:00,On-call,P083,2025-10-12 11:18:00
+N055,Aadhya Singh,Nurse,Pediatrics,00:00-08:00,On-duty,P071,2025-10-10 01:17:00
+N056,Ananya Mukherjee,Nurse,Orthopedics,08:00-16:00,On-duty,P106,2025-10-14 17:03:00
+N057,Saanvi Mukherjee,Nurse,Pulmonology,00:00-08:00,On-call,P081,2025-10-17 04:46:00
+N058,Aarohi Das,Nurse,Cardiology,08:00-16:00,On-call,P075,2025-10-16 14:58:00
+N059,Diya Reddy,Nurse,ICU,00:00-08:00,On-duty,P129,2025-10-13 08:16:00
+N060,Ananya Patel,Nurse,Pulmonology,16:00-00:00,On-call,P123,2025-10-14 06:17:00
+N061,Ira Singh,Nurse,ICU,00:00-08:00,On-call,P074,2025-10-20 23:13:00
+N062,Anika Sharma,Nurse,Pediatrics,08:00-16:00,On-duty,P098,2025-10-04 07:22:00
+N063,Vivaan Verma,Nurse,Cardiology,16:00-00:00,On-duty,P074,2025-10-16 13:13:00
+N064,Ishaan Reddy,Nurse,Pulmonology,08:00-16:00,On-call,P076,2025-10-05 15:24:00
+N065,Aarohi Verma,Nurse,General Medicine,16:00-00:00,On-duty,P144,2025-10-20 16:19:00
+N066,Krishna Chowdhury,Nurse,Orthopedics,08:00-16:00,On-call,P074,2025-10-16 18:26:00
+N067,Vivaan Khan,Nurse,Orthopedics,16:00-00:00,On-call,P081,2025-10-13 13:32:00
+N068,Vivaan Sharma,Nurse,ICU,16:00-00:00,On-duty,P114,2025-10-19 21:16:00
+N069,Krishna Shah,Nurse,Pulmonology,00:00-08:00,On-call,P051,2025-10-18 15:52:00
+N070,Ayaan Mukherjee,Nurse,Orthopedics,08:00-16:00,On-call,P020,2025-10-05 06:06:00
+A001,Sai Yadav,Admin,Emergency,16:00-00:00,On-duty,P110,2025-10-07 08:25:00
+A002,Aarohi Mehta,Admin,Cardiology,08:00-16:00,On-call,P066,2025-10-01 03:04:00
+A003,Ananya Bose,Admin,ICU,08:00-16:00,On-duty,P040,2025-10-08 08:11:00
+A004,Myra Verma,Admin,Pulmonology,00:00-08:00,On-call,P078,2025-10-12 03:54:00
+A005,Ira Chowdhury,Admin,General Medicine,08:00-16:00,On-call,P082,2025-10-12 22:56:00
+A006,Krishna Menon,Admin,Pediatrics,08:00-16:00,On-call,P041,2025-10-10 11:09:00
+A007,Aarohi Chowdhury,Admin,Orthopedics,08:00-16:00,Off-duty,P057,2025-10-05 20:31:00
+A008,Ananya Nair,Admin,General Medicine,16:00-00:00,On-duty,P136,2025-10-11 19:20:00
+A009,Aarohi Sharma,Admin,Emergency,00:00-08:00,Off-duty,P115,2025-10-06 11:15:00
+A010,Myra Bansal,Admin,Cardiology,08:00-16:00,On-call,P083,2025-10-09 16:16:00

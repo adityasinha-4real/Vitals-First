@@ -1,0 +1,151 @@
+Alert_ID,Recipient_ID,Alert_Type,Message,Timestamp,Status
+A5000,P082,Critical alert,Vitals exceed threshold,2025-10-24 16:59:00,Sent
+A5001,P130,System alert,Staff shift change notification,2025-10-10 01:03:00,Acknowledged
+A5002,P027,Reminder,Upcoming appointment reminder,2025-10-06 03:20:00,Sent
+A5003,N023,System alert,Upcoming appointment reminder,2025-10-13 13:34:00,Pending
+A5004,P062,System alert,Upcoming appointment reminder,2025-10-01 09:45:00,Sent
+A5005,N044,Critical alert,Upcoming appointment reminder,2025-10-17 21:39:00,Sent
+A5006,P128,System alert,Vitals exceed threshold,2025-10-16 09:38:00,Pending
+A5007,P031,System alert,Upcoming appointment reminder,2025-10-25 09:50:00,Sent
+A5008,P065,System alert,Staff shift change notification,2025-10-16 19:21:00,Acknowledged
+A5009,P099,System alert,Critical triage escalation,2025-10-17 07:12:00,Pending
+A5010,P069,System alert,Vitals exceed threshold,2025-10-23 02:04:00,Pending
+A5011,N025,Critical alert,Follow-up due,2025-10-23 07:18:00,Sent
+A5012,P096,Critical alert,Staff shift change notification,2025-10-22 07:36:00,Acknowledged
+A5013,P083,System alert,Upcoming appointment reminder,2025-10-21 10:50:00,Acknowledged
+A5014,P135,Critical alert,Critical triage escalation,2025-10-01 00:47:00,Pending
+A5015,N060,System alert,Upcoming appointment reminder,2025-10-01 20:26:00,Pending
+A5016,D037,Reminder,Upcoming appointment reminder,2025-10-15 14:17:00,Pending
+A5017,P033,Critical alert,Follow-up due,2025-10-18 15:14:00,Sent
+A5018,N069,Critical alert,Follow-up due,2025-10-08 00:21:00,Pending
+A5019,P145,System alert,Staff shift change notification,2025-10-06 00:39:00,Sent
+A5020,N068,Critical alert,Vitals exceed threshold,2025-10-06 21:44:00,Sent
+A5021,P017,System alert,Critical triage escalation,2025-10-09 17:17:00,Sent
+A5022,P017,Critical alert,Critical triage escalation,2025-10-23 07:06:00,Pending
+A5023,P132,System alert,Upcoming appointment reminder,2025-10-04 05:24:00,Sent
+A5024,P107,Critical alert,Vitals exceed threshold,2025-10-22 07:14:00,Pending
+A5025,P032,System alert,Critical triage escalation,2025-10-17 19:07:00,Pending
+A5026,P030,Reminder,Staff shift change notification,2025-10-25 01:49:00,Sent
+A5027,P037,Reminder,Vitals exceed threshold,2025-10-10 19:49:00,Pending
+A5028,P050,System alert,Upcoming appointment reminder,2025-10-25 04:42:00,Acknowledged
+A5029,P098,System alert,Upcoming appointment reminder,2025-10-09 03:24:00,Pending
+A5030,N013,Reminder,Follow-up due,2025-10-17 06:59:00,Pending
+A5031,N035,Reminder,Critical triage escalation,2025-10-05 17:42:00,Sent
+A5032,P093,Critical alert,Follow-up due,2025-10-16 08:39:00,Pending
+A5033,P081,Critical alert,Follow-up due,2025-10-21 03:53:00,Acknowledged
+A5034,D012,Critical alert,Staff shift change notification,2025-10-17 22:01:00,Acknowledged
+A5035,N021,Reminder,Staff shift change notification,2025-10-11 22:55:00,Pending
+A5036,A010,System alert,Follow-up due,2025-10-12 13:31:00,Acknowledged
+A5037,N032,System alert,Critical triage escalation,2025-10-01 00:12:00,Pending
+A5038,P018,Reminder,Follow-up due,2025-10-01 17:48:00,Pending
+A5039,P070,Reminder,Staff shift change notification,2025-10-01 07:10:00,Acknowledged
+A5040,P114,System alert,Staff shift change notification,2025-10-01 23:42:00,Pending
+A5041,P142,Reminder,Follow-up due,2025-10-08 00:59:00,Sent
+A5042,P020,System alert,Upcoming appointment reminder,2025-10-07 07:10:00,Acknowledged
+A5043,D038,Reminder,Upcoming appointment reminder,2025-10-11 14:29:00,Acknowledged
+A5044,D004,System alert,Critical triage escalation,2025-10-10 21:29:00,Pending
+A5045,P040,Reminder,Critical triage escalation,2025-10-08 20:51:00,Acknowledged
+A5046,P049,Critical alert,Staff shift change notification,2025-10-02 16:49:00,Pending
+A5047,D046,System alert,Vitals exceed threshold,2025-10-16 05:14:00,Acknowledged
+A5048,N023,System alert,Vitals exceed threshold,2025-10-11 07:38:00,Pending
+A5049,P006,Critical alert,Critical triage escalation,2025-10-03 11:07:00,Acknowledged
+A5050,N069,System alert,Follow-up due,2025-10-07 19:22:00,Acknowledged
+A5051,N058,Critical alert,Upcoming appointment reminder,2025-10-03 07:10:00,Pending
+A5052,N002,Reminder,Follow-up due,2025-10-23 23:17:00,Sent
+A5053,P114,System alert,Critical triage escalation,2025-10-07 17:40:00,Sent
+A5054,D023,System alert,Follow-up due,2025-10-03 05:51:00,Pending
+A5055,N005,System alert,Critical triage escalation,2025-10-23 20:07:00,Acknowledged
+A5056,P067,Reminder,Critical triage escalation,2025-10-10 00:23:00,Acknowledged
+A5057,N003,Critical alert,Upcoming appointment reminder,2025-10-24 20:37:00,Sent
+A5058,P125,System alert,Critical triage escalation,2025-10-15 17:15:00,Pending
+A5059,P046,System alert,Critical triage escalation,2025-10-20 06:37:00,Acknowledged
+A5060,D029,System alert,Staff shift change notification,2025-10-02 02:26:00,Acknowledged
+A5061,P087,Reminder,Follow-up due,2025-10-21 03:00:00,Pending
+A5062,P075,System alert,Upcoming appointment reminder,2025-10-10 02:06:00,Pending
+A5063,D042,System alert,Vitals exceed threshold,2025-10-06 02:44:00,Pending
+A5064,P028,System alert,Follow-up due,2025-10-07 17:18:00,Acknowledged
+A5065,P008,System alert,Vitals exceed threshold,2025-10-14 21:16:00,Acknowledged
+A5066,N042,System alert,Upcoming appointment reminder,2025-10-25 11:38:00,Sent
+A5067,P105,Critical alert,Staff shift change notification,2025-10-25 23:26:00,Acknowledged
+A5068,P073,Critical alert,Vitals exceed threshold,2025-10-18 03:21:00,Pending
+A5069,N070,System alert,Upcoming appointment reminder,2025-10-03 17:39:00,Acknowledged
+A5070,P103,Reminder,Follow-up due,2025-10-13 08:18:00,Sent
+A5071,N039,Critical alert,Vitals exceed threshold,2025-10-04 00:44:00,Acknowledged
+A5072,P139,Critical alert,Staff shift change notification,2025-10-05 21:50:00,Sent
+A5073,P150,Reminder,Critical triage escalation,2025-10-11 12:29:00,Acknowledged
+A5074,N061,Reminder,Vitals exceed threshold,2025-10-15 08:33:00,Acknowledged
+A5075,A003,System alert,Upcoming appointment reminder,2025-10-23 18:50:00,Acknowledged
+A5076,P012,System alert,Follow-up due,2025-10-14 21:03:00,Acknowledged
+A5077,N051,System alert,Upcoming appointment reminder,2025-10-01 20:04:00,Acknowledged
+A5078,D031,System alert,Staff shift change notification,2025-10-11 17:59:00,Pending
+A5079,P142,Reminder,Staff shift change notification,2025-10-18 14:53:00,Sent
+A5080,P144,System alert,Staff shift change notification,2025-10-18 21:05:00,Pending
+A5081,P071,System alert,Critical triage escalation,2025-10-24 16:45:00,Pending
+A5082,P117,System alert,Follow-up due,2025-10-07 22:50:00,Acknowledged
+A5083,D010,Reminder,Staff shift change notification,2025-10-21 10:36:00,Pending
+A5084,P068,System alert,Upcoming appointment reminder,2025-10-25 15:18:00,Pending
+A5085,P104,Reminder,Staff shift change notification,2025-10-24 20:08:00,Sent
+A5086,N021,Reminder,Upcoming appointment reminder,2025-10-08 04:37:00,Acknowledged
+A5087,P035,Critical alert,Vitals exceed threshold,2025-10-09 09:07:00,Acknowledged
+A5088,P075,Reminder,Staff shift change notification,2025-10-19 20:14:00,Acknowledged
+A5089,D006,System alert,Staff shift change notification,2025-10-07 21:58:00,Sent
+A5090,P055,System alert,Vitals exceed threshold,2025-10-13 03:29:00,Pending
+A5091,P119,Critical alert,Upcoming appointment reminder,2025-10-02 04:29:00,Acknowledged
+A5092,P041,Critical alert,Critical triage escalation,2025-10-07 02:27:00,Pending
+A5093,N041,Reminder,Staff shift change notification,2025-10-09 08:57:00,Acknowledged
+A5094,N052,System alert,Upcoming appointment reminder,2025-10-09 19:05:00,Sent
+A5095,P017,System alert,Vitals exceed threshold,2025-10-13 06:45:00,Acknowledged
+A5096,P114,Reminder,Upcoming appointment reminder,2025-10-10 07:26:00,Sent
+A5097,P091,Reminder,Critical triage escalation,2025-10-23 07:08:00,Pending
+A5098,D017,Reminder,Upcoming appointment reminder,2025-10-20 11:00:00,Acknowledged
+A5099,P022,Critical alert,Critical triage escalation,2025-10-15 05:46:00,Acknowledged
+A5100,A005,Critical alert,Vitals exceed threshold,2025-10-24 16:41:00,Sent
+A5101,N032,System alert,Vitals exceed threshold,2025-10-12 04:23:00,Pending
+A5102,A006,System alert,Vitals exceed threshold,2025-10-18 15:08:00,Pending
+A5103,P026,System alert,Critical triage escalation,2025-10-19 02:45:00,Acknowledged
+A5104,P147,System alert,Critical triage escalation,2025-10-14 09:35:00,Pending
+A5105,P028,Critical alert,Upcoming appointment reminder,2025-10-22 02:21:00,Pending
+A5106,N032,System alert,Follow-up due,2025-10-06 03:36:00,Sent
+A5107,A010,System alert,Critical triage escalation,2025-10-15 17:18:00,Acknowledged
+A5108,P013,System alert,Follow-up due,2025-10-10 04:33:00,Acknowledged
+A5109,P047,System alert,Upcoming appointment reminder,2025-10-06 14:56:00,Sent
+A5110,P059,Reminder,Staff shift change notification,2025-10-04 21:10:00,Pending
+A5111,D047,Reminder,Follow-up due,2025-10-08 06:39:00,Acknowledged
+A5112,D045,System alert,Upcoming appointment reminder,2025-10-16 06:07:00,Pending
+A5113,P077,System alert,Upcoming appointment reminder,2025-10-09 03:22:00,Pending
+A5114,P027,System alert,Staff shift change notification,2025-10-21 07:25:00,Acknowledged
+A5115,P093,System alert,Upcoming appointment reminder,2025-10-10 05:34:00,Sent
+A5116,P130,System alert,Critical triage escalation,2025-10-23 16:39:00,Pending
+A5117,P003,Critical alert,Critical triage escalation,2025-10-11 19:49:00,Sent
+A5118,N044,System alert,Critical triage escalation,2025-10-04 14:43:00,Pending
+A5119,P004,System alert,Follow-up due,2025-10-13 15:46:00,Pending
+A5120,P107,System alert,Upcoming appointment reminder,2025-10-03 12:08:00,Pending
+A5121,D029,System alert,Vitals exceed threshold,2025-10-14 13:58:00,Acknowledged
+A5122,P045,System alert,Critical triage escalation,2025-10-09 02:41:00,Sent
+A5123,P146,Critical alert,Follow-up due,2025-10-09 01:47:00,Acknowledged
+A5124,D035,Reminder,Vitals exceed threshold,2025-10-14 14:54:00,Acknowledged
+A5125,D039,Reminder,Vitals exceed threshold,2025-10-20 10:45:00,Pending
+A5126,P034,System alert,Upcoming appointment reminder,2025-10-06 13:16:00,Pending
+A5127,P141,System alert,Critical triage escalation,2025-10-24 21:03:00,Sent
+A5128,P108,Critical alert,Vitals exceed threshold,2025-10-25 01:45:00,Sent
+A5129,N048,Reminder,Follow-up due,2025-10-14 01:41:00,Acknowledged
+A5130,D013,System alert,Follow-up due,2025-10-17 02:30:00,Sent
+A5131,N055,Critical alert,Critical triage escalation,2025-10-23 09:56:00,Sent
+A5132,P120,Reminder,Upcoming appointment reminder,2025-10-01 01:43:00,Sent
+A5133,P013,System alert,Vitals exceed threshold,2025-10-10 10:27:00,Pending
+A5134,N013,System alert,Staff shift change notification,2025-10-16 21:54:00,Pending
+A5135,P109,System alert,Upcoming appointment reminder,2025-10-13 19:36:00,Acknowledged
+A5136,P035,System alert,Follow-up due,2025-10-15 17:48:00,Sent
+A5137,P059,Critical alert,Staff shift change notification,2025-10-19 00:35:00,Pending
+A5138,P015,Reminder,Upcoming appointment reminder,2025-10-16 01:00:00,Acknowledged
+A5139,N046,Reminder,Vitals exceed threshold,2025-10-07 04:16:00,Acknowledged
+A5140,P080,Critical alert,Follow-up due,2025-10-16 06:01:00,Acknowledged
+A5141,N012,Reminder,Vitals exceed threshold,2025-10-24 17:09:00,Acknowledged
+A5142,D012,Critical alert,Vitals exceed threshold,2025-10-10 11:28:00,Pending
+A5143,D020,Reminder,Staff shift change notification,2025-10-04 00:19:00,Sent
+A5144,P144,Reminder,Staff shift change notification,2025-10-18 01:51:00,Pending
+A5145,A004,Reminder,Follow-up due,2025-10-18 17:30:00,Sent
+A5146,P060,Reminder,Staff shift change notification,2025-10-15 07:31:00,Pending
+A5147,P017,System alert,Vitals exceed threshold,2025-10-23 14:54:00,Sent
+A5148,D041,System alert,Staff shift change notification,2025-10-10 20:04:00,Pending
+A5149,D005,System alert,Staff shift change notification,2025-10-02 16:50:00,Sent
